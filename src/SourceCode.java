@@ -4,7 +4,9 @@ public class SourceCode {
 		System.out.println("Source Code First");
 		System.out.println("Source Code Second");
 		
-		print("print Fucntion");
+		for(int i=0 ; i <3; i++)
+			print("print Fucntion");
+		
 	}
 	
 	public static void print(String str){
